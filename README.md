@@ -1,31 +1,8 @@
 # 💫 About Me:
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Rahul</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            background-color: #f4f4f9;
-            color: #333;
-        }
-        h1 {
-            color: #4CAF50;
-        }
-        strong {
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
-    <h1>Hi, I am Rahul</h1>
-    <p>I'm a passionate <strong>Software Developer</strong> skilled in Java, Python, and full-stack web development using Django. 
-       Currently exploring <strong>machine learning</strong> and building innovative projects like IoT systems and recipe management apps.</p>
-</body>
-</html>
+# Hi, I am Rahul
+
+I'm a passionate **Software Developer** skilled in Java, Python, and full-stack web development using Django.  
+Currently exploring **machine learning** and building innovative projects like IoT systems and recipe management apps.
 
 
 
