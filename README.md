@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi i am Rahul
+<h3>HI I am Rahul ,
+  I'm a passionate **Software Developer** skilled in Java, Python, and full-stack web development using Django. Currently exploring **machine learning** and building innovative projects like IoT systems and recipe management apps.
+</h3>
 
 
 ## 🌐 Socials:
